@@ -57,5 +57,4 @@ document.getElementById('quotaDonationButton').addEventListener('click', functio
     console.log(historyContainer);
   }
 })
-
 //------------------------------------------DONE---------------------------------------------

@@ -16,7 +16,6 @@ function inputFieldValidation(input){
            return false;
         }
     }
-
     return parseFloat(input);
 }
 function showAlert(){
